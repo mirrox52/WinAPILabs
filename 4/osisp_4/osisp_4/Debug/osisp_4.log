@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\alexander\desktop\лабы\5 сем\осисп\labzz\4\osisp_4\osisp_4\source.cpp(213): warning C4101: thread_state: неиспользованная локальная переменная
+c:\users\alexander\desktop\лабы\5 сем\осисп\labzz\4\osisp_4\osisp_4\source.cpp(313): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alexander\desktop\лабы\5 сем\осисп\labzz\4\osisp_4\osisp_4\source.cpp(321): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\alexander\desktop\лабы\5 сем\осисп\labzz\4\osisp_4\osisp_4\source.cpp(390): warning C4018: <: несоответствие типов со знаком и без знака
+  osisp_4.vcxproj -> C:\Users\Alexander\Desktop\лабы\5 сем\ОСиСП\labzz\4\osisp_4\Debug\osisp_4.exe
